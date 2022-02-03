@@ -1,6 +1,6 @@
 # Inverse Halftone Colorization: Making Halftone Prints Color Photos (ICIP 2021 accepted)
 PyTorch implementaton of the following paper. In this paper, we propose a framework to recover colorful images from black and white halftone prints.  
-<div align=><img height="200" src="https://github.com/ccc870206/InverseHalftoneColorization/blob/master/figure/teaser.png"/></div>
+![img](https://github.com/ccc870206/InverseHalftoneColorization/blob/master/figure/teaser.png)
 
 ## Paper
 [Inverse Halftone Colorization: Making Halftone Prints Color Photos](https://ieeexplore.ieee.org/document/9506307)  
