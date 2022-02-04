@@ -9,15 +9,14 @@ IEEE International Conference on Image Processing (ICIP), 2021.
 
 Please cite our paper if you find it useful for your research.  
 ```
-@INPROCEEDINGS{9506307,
-  author={Yen, Yu-Ting and Cheng, Chia-Chi and Chiu, Wei-Chen},
-  booktitle={2021 IEEE International Conference on Image Processing (ICIP)}, 
-  title={Inverse Halftone Colorization: Making Halftone Prints Color Photos}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1734-1738},
-  doi={10.1109/ICIP42928.2021.9506307}}
+@inproceedings{yen2021inverse,
+    title={Inverse Halftone Colorization: Making Halftone Prints Color Photos},
+    author={Yen, Yu-Ting and Cheng, Chia-Chi and Chiu, Wei-Chen},
+    booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
+    pages={1734--1738},
+    year={2021},
+    organization={IEEE}
+    }
 ```
 
 ## Installation
