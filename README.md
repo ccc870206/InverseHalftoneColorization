@@ -1,5 +1,6 @@
 # Inverse Halftone Colorization: Making Halftone Prints Color Photos (ICIP 2021 accepted)
-PyTorch implementaton of the following paper. In this paper, we propose a framework to recover colorful images from black and white halftone prints. 
+PyTorch implementaton of the following paper. In this paper, we propose a framework to recover colorful images from black and white halftone prints. You can visit our project website [here](https://ccc870206.github.io/InverseHalftoneColorization/).
+
 ![img](/figure/teaser.png)
 
 ## Paper
@@ -9,7 +10,7 @@ IEEE International Conference on Image Processing (ICIP), 2021.
 
 Please cite our paper if you find it useful for your research.  
 ```
-@inproceedings{yen2021inverse,
+@InProceedings{yen2021inverse,
     title={Inverse Halftone Colorization: Making Halftone Prints Color Photos},
     author={Yen, Yu-Ting and Cheng, Chia-Chi and Chiu, Wei-Chen},
     booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
@@ -42,3 +43,6 @@ python test.py --input_dir YOUR_INPUT_IMG_PATH
 ```
 
 ## Training (TODO)
+
+## Acknowledgments
+Our code is based on [BicycleGAN](https://github.com/junyanz/BicycleGAN) and we re-implement [Deep Inverse Halftoning via Progressively Residual Learning](https://github.com/MenghanXia/InverseHalftoning) in Pytorch for inverse halftone network.
