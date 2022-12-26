@@ -30,7 +30,7 @@ cd InverseHalftoneColorization
 ```
 
 ## Testing
-Download our pretrained models from [here](https://drive.google.com/drive/folders/17L-5K1tVc7xR1wFi4rCSqTo0s4v5tdeX?usp=sharing) and put them under `weights/`.  
+Download our pretrained models from [here](https://drive.google.com/drive/folders/1LJ5wQmoz0iovj6w0BoHeCXrT31HbsgT7?usp=share_link) and put them under `weights/`.  
 Run the sample data provided in this repo:
 ```
 python test.py
